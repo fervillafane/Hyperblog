@@ -1,5 +1,5 @@
 body {
-    color: #333;
+    color:crimson;
     text-align:center;
     font-family: "Arial";
 }
@@ -11,8 +11,4 @@ body {
     text-align: left;
     border: 1px solid #333;
     margin: 0 auto;
-}
-# container h1
-{
-    font-size: 70px;
 }
